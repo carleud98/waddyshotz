@@ -1,0 +1,2 @@
+# waddyshotz
+Photography Website
